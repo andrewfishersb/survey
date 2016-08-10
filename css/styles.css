@@ -1,0 +1,13 @@
+#result {
+  display: none;
+}
+#real{
+  display: none;
+}
+.jumbotron{
+  background: url("https://hd.unsplash.com/photo-1439123068749-20f4035bd7ed") no-repeat ;
+  background-size: cover;
+  background-position: bottom;
+  color: white;
+  text-shadow: 2px 2px black;
+}
