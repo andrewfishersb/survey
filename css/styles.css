@@ -11,3 +11,16 @@
   color: white;
   text-shadow: 2px 2px black;
 }
+#name {
+  max-width: 300px;
+}
+#born {
+  max-width: 175px;
+}
+#food {
+  max-width: 200px;
+}
+#color {
+  max-width: 50px;
+  border-radius: 50%;
+}
